@@ -24,4 +24,3 @@ having sum(amount) > 150;
 select customer_id, first_name from customer
 where first_name like ('__%o');
 
-
